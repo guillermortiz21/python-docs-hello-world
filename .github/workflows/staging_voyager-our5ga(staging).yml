@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'voyager-our5ga'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D049DB078FD4A7F95FC9C50BF6A7EE7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D442B5673E2491496E53321DA016F55 }}
